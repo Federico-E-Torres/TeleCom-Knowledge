@@ -1,1 +1,2 @@
-
+- [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer): Tool for simulating network architecture.
+- [GNS3](https://gns3.com/): Open-source network simulation tool.
