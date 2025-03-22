@@ -1,0 +1,2 @@
+- [NS-3](https://www.nsnam.org/): Network simulator for wireless communication systems.
+- [Gnuradio](https://www.gnuradio.org/): Open-source toolkit for building software-defined radios.
