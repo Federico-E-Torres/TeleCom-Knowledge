@@ -1,0 +1,2 @@
+- [scipy/scipy](https://github.com/scipy/scipy): Scientific computing library for Python.
+- [sigpyproc](https://github.com/ewanbarr/sigpyproc): Signal processing tools for communication theory.
