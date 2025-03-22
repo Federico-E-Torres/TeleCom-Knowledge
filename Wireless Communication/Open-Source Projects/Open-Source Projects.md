@@ -1,0 +1,2 @@
+- [srsLTE/srsRAN](https://github.com/srsran/srsRAN): An open-source 4G/5G framework.
+- [lorabasics](https://github.com/Lora-net/lorabasics): Libraries for LoRa communication.
