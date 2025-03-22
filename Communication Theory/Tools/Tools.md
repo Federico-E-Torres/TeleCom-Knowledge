@@ -1,0 +1,2 @@
+- [MATLAB](https://www.mathworks.com/products/matlab.html): Popular tool for simulation and analysis in communication systems.
+- [GNU Octave](https://www.gnu.org/software/octave/): Open-source alternative to MATLAB.
